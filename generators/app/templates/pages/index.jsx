@@ -14,7 +14,7 @@ const HomePage = ({confList = [], poweredBy = ''}) => {
                 {confList.map((conf, i) => (
                     <li key={i}>
                         <h2>{conf.title}</h2>
-                        <p>When {moment(conf.date).format('MM-DD-YYYY [at] h:mm a')}</p>
+                        <p>When {moment(conf.date, "ddd MMM DD YYYY kk:mm:ss [GMT]ZZ [(]zz[)]").format('MM-DD-YYYY [at] h:mm a')}</p>
                         <p>Where: {conf.location}</p>
                         <p>
                             <a href={conf.url}>Learn More</a>

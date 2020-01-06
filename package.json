@@ -1,6 +1,6 @@
 {
   "name": "generator-rskaggs-conf-list-starter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A starter generator using NextJS to list out upcoming Front End Conferences",
   "homepage": "",
   "author": {

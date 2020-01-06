@@ -1,4 +1,5 @@
-# generator-rskaggs-conf-list-starter [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-rskaggs-conf-list-starter 
+
 > A starter generator using NextJS to list out upcoming Front End Conferences
 
 ## Installation

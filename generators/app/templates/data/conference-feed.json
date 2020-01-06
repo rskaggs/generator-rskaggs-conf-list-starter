@@ -1,0 +1,355 @@
+{
+  "source" : "https://conferences.css-tricks.com",
+  "conferences" : [
+    {
+      "title" : "HalfStack Phoenix",
+      "date" : "Fri Jan 17 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://halfstackconf.com/phoenix/",
+      "location" : "Chandler, AZ",
+      "byline" : "Frontend, JavaScript, UI, Web, Development."
+      ,"cocUrl" : "https://halfstackconf.com/phoenix/code-of-conduct/"
+    },
+    {
+      "title" : "New Adventures",
+      "date" : "Wed Jan 22 2020 00:00:00 GMT+0000 (UTC)",
+      "endDate" : "Thu Jan 23 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://newadventuresconf.com/2020/",
+      "location" : "Nottingham, UK",
+      "byline" : "Design is changing. Be ready."
+      ,"cocUrl" : "https://newadventuresconf.com/2020/code-of-conduct/"
+    },
+    {
+      "title" : "Byteconf GraphQL",
+      "date" : "Fri Jan 31 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://bytesized.xyz/graphql-2020",
+      "location" : "Online, streamed on YouTube",
+      "byline" : "A FREE GRAPHQL CONFERENCE, STREAMED ON YOUTUBE"
+      ,"cocUrl" : "https://github.com/byteconf/ccoc"
+    },
+    {
+      "title" : "JSConf Hawaiʻi",
+      "date" : "Wed Feb 05 2020 00:00:00 GMT+0000 (UTC)",
+      "endDate" : "Fri Feb 07 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://www.jsconfhi.com/",
+      "location" : "Honolulu, HI",
+      "byline" : "A three day, single track conference dedicated to web development, JavaScript and building a community."
+      ,"cocUrl" : "https://www.jsconfhi.com/code-of-conduct/"
+    },
+    {
+      "title" : "Front End North",
+      "date" : "Fri Feb 07 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://frontendnorth.com/",
+      "location" : "Sheffield, UK",
+      "byline" : "A welcoming one-track, one-day conference for developers &amp; designers who work on the web."
+      ,"cocUrl" : "https://frontendnorth.com/code-of-conduct/"
+    },
+    {
+      "title" : "Flashback Conference",
+      "date" : "Mon Feb 10 2020 00:00:00 GMT+0000 (UTC)",
+      "endDate" : "Tue Feb 11 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://cfe.dev/events/flashback-conference-2020/",
+      "location" : "Orlando, USA",
+      "byline" : "Celebrating web development of today and how we got here."
+      ,"cocUrl" : "https://cfe.dev/events/flashback-conference-2020/#code-of-conduct"
+    },
+    {
+      "title" : "ngAtlanta",
+      "date" : "Mon Feb 17 2020 00:00:00 GMT+0000 (UTC)",
+      "endDate" : "Wed Feb 19 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://ng-atl.org/",
+      "location" : "Atlanta, USA",
+      "byline" : "You Can Sit With Us"
+      ,"cocUrl" : "https://ng-atl.org/code-of-conduct"
+    },
+    {
+      "title" : "Frontend Developer Love",
+      "date" : "Wed Feb 19 2020 14:23:34 GMT+0000 (UTC)",
+      "endDate" : "Fri Feb 21 2020 14:23:34 GMT+0000 (UTC)",
+      "url" : "https://www.frontenddeveloperlove.com/",
+      "location" : "Amsterdam, Netherlands",
+      "byline" : "Frontend Developer Love Conference is the Largest JavaScript Conference in Europe."
+      ,"cocUrl" : "https://www.frontenddeveloperlove.com/code-of-conduct"
+    },
+    {
+      "title" : "Vue.js Amsterdam",
+      "date" : "Thu Feb 20 2020 14:20:27 GMT+0000 (UTC)",
+      "endDate" : "Fri Feb 21 2020 14:20:27 GMT+0000 (UTC)",
+      "url" : "https://www.vuejs.amsterdam/",
+      "location" : "Amsterdam, Netherlands",
+      "byline" : "The World&#39;s Most Special &amp; Largest Vue.js Conference"
+      ,"cocUrl" : "https://www.vuejs.amsterdam/code-of-conduct"
+    },
+    {
+      "title" : "ReactConf AU",
+      "date" : "Thu Feb 27 2020 00:00:00 GMT+0000 (UTC)",
+      "endDate" : "Fri Feb 28 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://reactconfau.com/",
+      "location" : "Sydney, New South Wales",
+      "byline" : ""
+      ,"cocUrl" : "https://reactconfau.com/code-of-conduct"
+    },
+    {
+      "title" : "Vueconf.US",
+      "date" : "Mon Mar 02 2020 00:00:00 GMT+0000 (UTC)",
+      "endDate" : "Wed Mar 04 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "http://vueconf.us/",
+      "location" : "Austin, USA",
+      "byline" : "ATX. Code. Vue"
+      ,"cocUrl" : "http://vueconf.us/codeofconduct"
+    },
+    {
+      "title" : "EmberConf",
+      "date" : "Mon Mar 16 2020 13:15:42 GMT+0000 (UTC)",
+      "endDate" : "Wed Mar 18 2020 13:15:42 GMT+0000 (UTC)",
+      "url" : "https://emberconf.com/",
+      "location" : "Portland, Oregon",
+      "byline" : "3 days of Ember talks, sessions, training and fun."
+      ,"cocUrl" : "https://emberconf.com/#/about/code-of-conduct"
+    },
+    {
+      "title" : "CityJS Conference",
+      "date" : "Fri Mar 27 2020 00:00:00 GMT+0000 (UTC)",
+      "endDate" : "Fri Mar 27 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://cityjsconf.org/home",
+      "location" : "London, England",
+      "byline" : "CITY OF LONDON JAVASCRIPT CONFERENCE"
+      ,"cocUrl" : "https://cityjsconf.org/coc"
+    },
+    {
+      "title" : "Reactathon",
+      "date" : "Mon Mar 30 2020 14:50:53 GMT+0000 (UTC)",
+      "endDate" : "Tue Mar 31 2020 14:50:53 GMT+0000 (UTC)",
+      "url" : "https://www.reactathon.com/",
+      "location" : "San Francisco, California",
+      "byline" : "Developer Conference"
+      ,"cocUrl" : "https://www.reactathon.com/code-of-conduct/"
+    },
+    {
+      "title" : "UIArchConf",
+      "date" : "Wed Apr 01 2020 00:00:00 GMT+0000 (UTC)",
+      "endDate" : "Fri Apr 03 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "http://uiarchconf.com/",
+      "location" : "New Orleans, USA",
+      "byline" : "Web - Mobile - Design - UX ARCHITECTURE"
+      ,"cocUrl" : "http://uiarchconf.com/codeofconduct/"
+    },
+    {
+      "title" : "VueDay",
+      "date" : "Fri Apr 03 2020 00:00:00 GMT+0000 (UTC)",
+      "endDate" : "Fri Apr 03 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://2020.vueday.it/",
+      "location" : "Verona, Italy",
+      "byline" : ""
+      ,"cocUrl" : "https://2020.vueday.it/coc.html"
+    },
+    {
+      "title" : "An Event Apart",
+      "date" : "Mon Apr 13 2020 13:31:22 GMT+0000 (UTC)",
+      "endDate" : "Wed Apr 15 2020 13:31:22 GMT+0000 (UTC)",
+      "url" : "https://aneventapart.com/event/washington-dc-2020",
+      "location" : "Washington DC",
+      "byline" : "Three days of design, code, and content"
+      ,"cocUrl" : "https://aneventapart.com/registration-information#code-of-conduct"
+    },
+    {
+      "title" : "JS Kongress 2020",
+      "date" : "Wed Apr 15 2020 00:00:00 GMT+0000 (UTC)",
+      "endDate" : "Tue Apr 16 2019 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://js-kongress.com/",
+      "location" : "Munich, Germany",
+      "byline" : "The focus of JS Kongress 2020 is Scaling JS – Pushing the Limits. Massive Platforms, Data-Driven Architectures, and Modern APIs. The"
+      ,"cocUrl" : "https://js-kongress.com/code-of-conduct/"
+    },
+    {
+      "title" : "React Summit",
+      "date" : "Fri Apr 17 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://reactsummit.com/",
+      "location" : "Kromhouthal, Amsterdam",
+      "byline" : "The Biggest React Conference Worldwide"
+      ,"cocUrl" : "https://reactsummit.com/coc"
+    },
+    {
+      "title" : "Smashing Conference",
+      "date" : "Tue Apr 21 2020 00:00:00 GMT+0000 (UTC)",
+      "endDate" : "Wed Apr 22 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://smashingconf.com/sf-2020/",
+      "location" : "San Francisco, California",
+      "byline" : "A friendly, inclusive event, focused on real-world problems and solutions."
+      ,"cocUrl" : "https://smashingconf.com/codeofconduct"
+    },
+    {
+      "title" : "JSHeroes",
+      "date" : "Thu Apr 23 2020 00:00:00 GMT+0000 (UTC)",
+      "endDate" : "Fri Apr 24 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://jsheroes.io/",
+      "location" : "Cluj, Romania",
+      "byline" : "Open-Source Community Event"
+      ,"cocUrl" : "https://jsheroes.io/code-of-conduct"
+    },
+    {
+      "title" : "HalfStack Charlotte",
+      "date" : "Fri Apr 24 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://halfstackconf.com/charlotte/",
+      "location" : "Charlotte, North Carolina",
+      "byline" : "Frontend, JavaScript, UI, Web, Development."
+      ,"cocUrl" : "https://halfstackconf.com/charlotte/code-of-conduct/"
+    },
+    {
+      "title" : "Beyond Tellerrand (Düsseldorf)",
+      "date" : "Mon Apr 27 2020 00:00:00 GMT+0000 (UTC)",
+      "endDate" : "Wed Apr 29 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "http://beyondtellerrand.com/",
+      "location" : "Düsseldorf, Germany",
+      "byline" : "Web design, development, creativity, design and much more"
+      ,"cocUrl" : "https://beyondtellerrand.com/code-of-conduct"
+    },
+    {
+      "title" : "HalfStack Tel Aviv",
+      "date" : "Mon May 11 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://halfstackconf.com/telaviv/",
+      "location" : "Tel Aviv-Yafo, Israel",
+      "byline" : "Frontend, JavaScript, UI, Web, Development."
+      ,"cocUrl" : "https://halfstackconf.com/telaviv/code-of-conduct/"
+    },
+    {
+      "title" : "An Event Apart",
+      "date" : "Mon May 11 2020 13:38:12 GMT+0000 (UTC)",
+      "endDate" : "Wed May 13 2020 13:38:12 GMT+0000 (UTC)",
+      "url" : "https://aneventapart.com/event/seattle-2020",
+      "location" : "Seattle, Washington",
+      "byline" : "Three days of design, code, and content"
+      ,"cocUrl" : "https://aneventapart.com/registration-information#code-of-conduct"
+    },
+    {
+      "title" : "React Finland",
+      "date" : "Tue May 12 2020 00:00:00 GMT+0000 (UTC)",
+      "endDate" : "Fri May 15 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://react-finland.fi",
+      "location" : "Helsinki, Finland",
+      "byline" : "Learn More about React, Explore Finland."
+      ,"cocUrl" : "http://berlincodeofconduct.org"
+    },
+    {
+      "title" : "You Gotta Love Frontend (YGLF)",
+      "date" : "Thu May 14 2020 00:00:00 GMT+0000 (UTC)",
+      "endDate" : "Fri May 15 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://lithuania.yglfconf.com",
+      "location" : "Vilnius, Lithuania",
+      "byline" : "Frontend, JavaScript, Node.js, Web, Design."
+      ,"cocUrl" : "https://lithuania.yglfconf.com/code-of-conduct"
+    },
+    {
+      "title" : "Smashing Conference",
+      "date" : "Tue Jun 09 2020 00:00:00 GMT+0000 (UTC)",
+      "endDate" : "Wed Jun 10 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://smashingconf.com/austin-2020",
+      "location" : "Austin, USA",
+      "byline" : "A friendly, inclusive event which is focused on real-world problems and solutions."
+      ,"cocUrl" : "https://smashingconf.com/codeofconduct"
+    },
+    {
+      "title" : "React Loop",
+      "date" : "Fri Jun 19 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://reactloop.com",
+      "location" : "Chicago, IL",
+      "byline" : "React. Chicago. Community."
+      ,"cocUrl" : "https://reactloop.com/conduct"
+    },
+    {
+      "title" : "An Event Apart",
+      "date" : "Mon Jun 29 2020 20:54:48 GMT+0000 (UTC)",
+      "endDate" : "Wed Jul 01 2020 20:54:48 GMT+0000 (UTC)",
+      "url" : "https://aneventapart.com/event/boston-2020",
+      "location" : "Boston, Massachusetts ",
+      "byline" : "Three days of design, code, and content"
+      ,"cocUrl" : "https://aneventapart.com/registration-information#code-of-conduct"
+    },
+    {
+      "title" : "CSSCAMP",
+      "date" : "Wed Jul 15 2020 00:00:00 GMT+0000 (UTC)",
+      "endDate" : "Wed Jul 15 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://csscamp.tech/",
+      "location" : "Barcelona",
+      "byline" : "one-day, one-track conference for Web designers and developers."
+      ,"cocUrl" : "https://csscamp.tech/code-of-conduct/"
+    },
+    {
+      "title" : "JSCAMP",
+      "date" : "Thu Jul 16 2020 00:00:00 GMT+0000 (UTC)",
+      "endDate" : "Fri Jul 17 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://jscamp.tech/",
+      "location" : "Barcelona",
+      "byline" : "Listen. Learn. Get Inspired."
+      ,"cocUrl" : "https://jscamp.tech/code-of-conduct/"
+    },
+    {
+      "title" : "HalfStack New York",
+      "date" : "Fri Aug 14 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://halfstackconf.com/newyork/",
+      "location" : "New York, NY",
+      "byline" : "Frontend, JavaScript, UI, Web, Development."
+      ,"cocUrl" : "https://halfstackconf.com/newyork/code-of-conduct/"
+    },
+    {
+      "title" : "An Event Apart",
+      "date" : "Mon Aug 17 2020 20:59:52 GMT+0000 (UTC)",
+      "endDate" : "Wed Aug 19 2020 20:59:52 GMT+0000 (UTC)",
+      "url" : "https://aneventapart.com/event/minneapolis-2020",
+      "location" : "Minneapolis, Minnesota",
+      "byline" : "Three days of design, code, and content"
+      ,"cocUrl" : "https://aneventapart.com/registration-information#code-of-conduct"
+    },
+    {
+      "title" : "React Rally",
+      "date" : "Sat Aug 22 2020 13:25:54 GMT+0000 (UTC)",
+      "endDate" : "Sun Aug 23 2020 13:25:54 GMT+0000 (UTC)",
+      "url" : "https://www.reactrally.com/",
+      "location" : "Salt Lake City, Utah",
+      "byline" : "React Rally is a community conference about React and topics interesting to React developers."
+      ,"cocUrl" : "https://www.reactrally.com/conduct"
+    },
+    {
+      "title" : "Smashing Conference",
+      "date" : "Mon Sep 07 2020 00:00:00 GMT+0000 (UTC)",
+      "endDate" : "Tue Sep 08 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://smashingconf.com/freiburg-2020/",
+      "location" : "Freiburg, Germany",
+      "byline" : "A friendly, inclusive event which is focused on real-world problems and solutions."
+      ,"cocUrl" : "https://smashingconf.com/codeofconduct"
+    },
+    {
+      "title" : "HalfStack Vienna",
+      "date" : "Fri Sep 18 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://halfstackconf.com/vienna/",
+      "location" : "Absberggasse, Vienna",
+      "byline" : "Frontend, JavaScript, UI, Web, Development."
+      ,"cocUrl" : "https://halfstackconf.com/vienna/code-of-conduct/"
+    },
+    {
+      "title" : "An Event Apart",
+      "date" : "Mon Oct 05 2020 21:04:47 GMT+0000 (UTC)",
+      "endDate" : "Wed Oct 07 2020 21:04:47 GMT+0000 (UTC)",
+      "url" : "https://aneventapart.com/event/orlando-2020",
+      "location" : "Orlando, Florida",
+      "byline" : "Three days of design, code, and content"
+      ,"cocUrl" : "https://aneventapart.com/registration-information#code-of-conduct"
+    },
+    {
+      "title" : "Smashing Conference",
+      "date" : "Thu Oct 15 2020 00:00:00 GMT+0000 (UTC)",
+      "endDate" : "Fri Oct 16 2020 00:00:00 GMT+0000 (UTC)",
+      "url" : "https://smashingconf.com/ny-2020/",
+      "location" : "New York City, New York",
+      "byline" : "We pour our heart into creating friendly, inclusive events that are focused on real-world problems and solutions."
+      ,"cocUrl" : "https://smashingconf.com/codeofconduct"
+    },
+    {
+      "title" : "An Event Apart",
+      "date" : "Mon Dec 14 2020 22:06:49 GMT+0000 (UTC)",
+      "endDate" : "Wed Dec 16 2020 22:06:49 GMT+0000 (UTC)",
+      "url" : "https://aneventapart.com/event/san-francisco-2020",
+      "location" : "San Francisco, California",
+      "byline" : "Three days of design, code, and content"
+      ,"cocUrl" : "https://aneventapart.com/registration-information#code-of-conduct"
+    }
+    ]}

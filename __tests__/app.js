@@ -11,6 +11,6 @@ describe('generator-rskaggs-conf-list-starter:app', () => {
   });
 
   it('creates files', () => {
-    assert.file(['dummyfile.txt']);
+    assert.file(['next.config.js']);
   });
 });
